@@ -1,0 +1,17 @@
+.bullet { font-size: 7px; font-family:Roboto Condensed Light; fill: #7B7C7C; } /* axis label font and color */
+.bullet .marker { stroke: #4E4E4E; stroke-width: 2px; } /* goal line marker */
+.bullet .tick line { stroke: #E4E4E4; stroke-width: 1px; } /* tick marks */
+.bullet .range.s0 { fill: #E4E4E4; } /* 1st range color */
+.bullet .range.s1 { fill: #ddd; } /* 2nd range color */
+.bullet .range.s2 { fill: #ccc; } /* 3rd range color */
+
+/* NOT MEETING GOAL */
+.bullet .measure-notmet.s0 { fill: #842520; stroke: #E4E4E4; } /* 1st bullet data point */
+.bullet .measure-notmet.s1 { fill: #F15854; stroke: #E4E4E4; } /* 2nd bullet data point */
+
+/* MEETING GOAL */
+.bullet .measure-met.s0 { fill: #386142; stroke: #E4E4E4; } /* 1st bullet data point */
+.bullet .measure-met.s1 { fill: #60BD68; stroke: #E4E4E4; } /* 2nd bullet data point */
+
+/*.bullet .title { font-size: 14px; font-weight: bold; }
+.bullet .subtitle { fill: #999; }  NOT USED - FROM EXAMPLE */
