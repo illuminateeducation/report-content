@@ -1,0 +1,168 @@
+@charset "UTF-8";
+@font-face {
+	font-family: 'FontAwesome Regular-en_US';
+	src: url('FontAwesomeRegular/fontawesome-webfont.eot');
+	src: url('FontAwesomeRegular/fontawesome-webfont.eot?#iefix') format('embedded-opentype');
+	src: local('â˜º'),
+		url('FontAwesomeRegular/fontawesome-webfont.woff') format('woff'),
+		url('FontAwesomeRegular/fontawesome-webfont.ttf') format('truetype'),
+		url('FontAwesomeRegular/fontawesome-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FontAwesome_-en_US';
+	src: url('FontAwesomeRegular/fontawesome-webfont.eot');
+	src: url('FontAwesomeRegular/fontawesome-webfont.eot?#iefix') format('embedded-opentype');
+	src: local('â˜º'),
+		url('FontAwesomeRegular/fontawesome-webfont.woff') format('woff'),
+		url('FontAwesomeRegular/fontawesome-webfont.ttf') format('truetype'),
+		url('FontAwesomeRegular/fontawesome-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Oswald Bold-en_US';
+	src: local('â˜º'),
+		url('OswaldBold/Oswald700.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Oswald-Bold_-en_US';
+	src: local('â˜º'),
+		url('OswaldBold/Oswald700.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Oswald Light-en_US';
+	src: local('â˜º'),
+		url('OswaldLight/Oswald300.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Oswald-Light_-en_US';
+	src: local('â˜º'),
+		url('OswaldLight/Oswald300.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto-en_US';
+	src: local('â˜º'),
+		url('Roboto/Roboto400.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto_-en_US';
+	src: local('â˜º'),
+		url('Roboto/Roboto400.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Black-en_US';
+	src: local('â˜º'),
+		url('RobotoBlack/Roboto900.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Black_-en_US';
+	src: local('â˜º'),
+		url('RobotoBlack/Roboto900.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Bold-en_US';
+	src: local('â˜º'),
+		url('RobotoBold/Roboto700.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto-Bold_-en_US';
+	src: local('â˜º'),
+		url('RobotoBold/Roboto700.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Condensed-en_US';
+	src: local('â˜º'),
+		url('RobotoCondensed/RobotoCond400.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Condensed_-en_US';
+	src: local('â˜º'),
+		url('RobotoCondensed/RobotoCond400.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Condensed Bold-en_US';
+	src: local('â˜º'),
+		url('RobotoCondensedBold/RobotoCond700.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'RobotoCondensed-Bold_-en_US';
+	src: local('â˜º'),
+		url('RobotoCondensedBold/RobotoCond700.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Condensed Light-en_US';
+	src: local('â˜º'),
+		url('RobotoCondensedLight/RobotoCond300.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Condensed Light_-en_US';
+	src: local('â˜º'),
+		url('RobotoCondensedLight/RobotoCond300.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Light-en_US';
+	src: local('â˜º'),
+		url('RobotoLight/Roboto300.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto Light_-en_US';
+	src: local('â˜º'),
+		url('RobotoLight/Roboto300.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
