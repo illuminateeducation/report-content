@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2018-04-19 00:23:58 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_3" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 3</title>
+    <g id="Canvas_3: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <path d="M 1.3018 8.2085 C 2.8908 3.7005 6.9218 .7715 11.6998 .6535 L 11.6998 11.5865 Z" fill="#f2f2f2"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 5.0879 21.0039 C 1.2909 18.0999 -.2491 13.3599 1.1159 8.7789 L 11.5149 12.1579 Z" fill="#f2f2f2"/>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 12 23.3945 C 9.724 23.3945 7.508 22.6915 5.573 21.3565 L 12 12.5105 L 18.427 21.3565 C 16.492 22.6915 14.276 23.3945 12 23.3945 Z" fill="#e2c727"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 12.4854 12.1577 L 22.8834 8.7797 C 24.2494 13.3607 22.7094 18.0997 18.9124 21.0037 Z" fill="#e2c727"/>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 12.2998 .6533 C 17.0778 .7713 21.1098 3.7003 22.6978 8.2083 L 12.2998 11.5873 Z" fill="#e2c727"/>
+      </g>
+    </g>
+  </g>
+</svg>
