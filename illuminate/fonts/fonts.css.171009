@@ -279,6 +279,7 @@
 	font-style: normal;
 }
 
+
 @font-face {
 	font-family: 'Times New Roman Italic_-en_US';
 	src: local('â˜º'),
@@ -286,6 +287,7 @@
 	font-weight: normal;
 	font-style: normal;
 }
+
 
 @font-face {
 	font-family: 'Times New Roman Bold_-en_US';
@@ -295,59 +297,11 @@
 	font-style: normal;
 }
 
+
 @font-face {
 	font-family: 'Times New Roman Bold Italic_-en_US';
 	src: local('â˜º'),
 		url('TimesNewRoman/Times New Roman Bold Italic.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Schoolbell';
-	src: local('â˜º'),
-		url('Schoolbell/schoolbell.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Schoolbell_-en_US';
-	src: local('â˜º'),
-		url('Schoolbell/schoolbell.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Arial';
-	src: local('â˜º'),
-		url('Arial/Arial.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Arial_-en_US';
-	src: local('â˜º'),
-		url('Arial/Arial.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-
-@font-face {
-	font-family: 'Helvetica';
-	src: local('â˜º'),
-		url('Helvetica/Helvetica.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Helvetica_-en_US';
-	src: local('â˜º'),
-		url('Helvetica/Helvetica.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }

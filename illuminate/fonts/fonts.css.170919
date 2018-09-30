@@ -304,50 +304,9 @@
 }
 
 @font-face {
-	font-family: 'Schoolbell';
-	src: local('â˜º'),
-		url('Schoolbell/schoolbell.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
 	font-family: 'Schoolbell_-en_US';
 	src: local('â˜º'),
 		url('Schoolbell/schoolbell.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Arial';
-	src: local('â˜º'),
-		url('Arial/Arial.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Arial_-en_US';
-	src: local('â˜º'),
-		url('Arial/Arial.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-
-@font-face {
-	font-family: 'Helvetica';
-	src: local('â˜º'),
-		url('Helvetica/Helvetica.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Helvetica_-en_US';
-	src: local('â˜º'),
-		url('Helvetica/Helvetica.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
